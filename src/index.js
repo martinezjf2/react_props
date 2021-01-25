@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 
 ReactDOM.render(
   <div>
-    <h1>My Contacts</h1>
+    <h1>Artists</h1>
 
     <h2>Beyonce</h2>
     <img
